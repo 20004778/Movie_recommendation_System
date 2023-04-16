@@ -1,5 +1,8 @@
 # Movie_recommendation_System
-
+## Algorithm:
+In this System is give the recommendation based on review ratings.
+## Collaborative filtering
+The idea of a collaborative filtering approach is to collect and analyze a large amount of information about user actions and settings and then predict which users will favor their similarity with other users [17]. The advantage of collaborative filtering is that it does not rely on content that can be analyzed and can accurately represent complex items. Algorithms are used to calculate user similarities or item similarities in recommender systems, such as k-nearest neighbors and Pearson correlation. Another collaborative filtering concept is based on assumptions. People who buy in the past will buy in the future and like the same product them like in the past.
 ```python
 import numpy as np
 import pandas as pd
